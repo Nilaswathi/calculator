@@ -10,7 +10,7 @@ public class App {
 
         System.out.println("Hello Maven");
 
-        int result = add(10,20);
+        int result = add(100,20);
 
         System.out.println("Result = " + result);
     }
